@@ -2,7 +2,7 @@
 const BLOG = {
   AUTHOR: 'icepie', // 作者
   BIO: '待会去码头整点薯条', // 作者简介
-  LINK: 'https://blog.icepie.net/', // 网站地址
+  LINK: 'https://blog.icepie.net', // 网站地址
   KEYWORDS: 'Notion, 博客, icepie, 平均律', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
   process.env.NOTION_PAGE_ID || '80071ce458464a39b647727ad569dc9a', // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
